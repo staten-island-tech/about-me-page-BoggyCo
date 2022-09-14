@@ -1,0 +1,48 @@
+.headers {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    background-color: navy;
+    color: aliceblue;
+    width: 50%;
+    border: 3px;
+    text-align: center;
+    border-radius: 10px;
+    padding:0.5%;
+    margin:auto;
+    border-color:azure;
+    border-style: dashed;
+
+}
+.p {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    background-color: cornflowerblue;
+    width: 40%;
+    border: 3px;
+    text-align: center;
+    border-radius: 10px;
+    padding:0.5%;
+    border-style: dashed;
+    border-color: navy;
+    margin: auto;
+}
+body {
+    background-color:cornflowerblue;
+}
+
+.list {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    background-color: cornflowerblue;
+    width: 40%;
+    border: 3px;
+    border-radius: 10px;
+    padding:0.5%;
+    border-style: dashed;
+    border-color: navy;
+    margin: auto;
+}
+.meme {
+    display: block;
+    margin: auto;
+}
